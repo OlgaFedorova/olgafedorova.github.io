@@ -1,0 +1,26 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            IT-notes
+tagline:          ''
+paginate:         10
+paginate_path:    "page:num"
+highlighter:      rouge
+future:           false
+show_drafts:      false
+
+author:
+  name:           Olga Fedorova
+  email:		  msg2olga@gmail.com
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji  
