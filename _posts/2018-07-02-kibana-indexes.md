@@ -2,7 +2,7 @@
 layout: post
 title: "Индексы в Kibana"
 permalink: kibana-indexes
-tags: docker kibana
+tags: kibana
 ---
 Для мониторинга соответствующего индекса в **Kibana** необходимо его настроить.
 Заходим в пункт меню **Management => Create Index Pattern**:
