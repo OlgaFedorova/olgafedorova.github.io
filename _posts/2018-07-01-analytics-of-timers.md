@@ -191,6 +191,7 @@ Spring предлагает поддержку Quartz используя Schedul
       </props>  
       </property>  
     </bean>
+
 Вы можете установить значение **task executor** в **org.springframework.scheduling.commonj.WorkManagerTaskExecutor**. Этот класс делегирует полномочия CommonJ Work Manager. Который доступен внутри WebSphere. Так потоки, которые будут созданы для ваших quartz-джобов, оборачиваются в commonj Work объекты, и будут управляться сервером приложений:
 
     <bean id="taskExecutor"  class="org.springframework.scheduling.commonj.WorkManagerTaskExecutor">
