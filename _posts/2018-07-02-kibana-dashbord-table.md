@@ -25,9 +25,9 @@ tags: kibana
 ![kibana-dashboard-table]({{ site.url }}/assets/2018-07-02-kibana-dashbord-table/dash_7.png))
 
 Затем переходим в пункт меню **Save**, указываем значение поля **Title** и **Description**, флажок **Store time with dashboard** – если хотим, чтобы показатели в дашборде обновлялись вместе с его загрузкой. Нажимаем на кнопку **Save.**
-![kibana-dashboard-table]({{ site.url }}/assets/2018-07-02-kibana-dashbord-table/dash_8.png))
-
-Создается **Dashboard**, который затем доступен в списке.
 ![kibana-dashboard-table]({{ site.url }}/assets/2018-07-02-kibana-dashbord-table/dash_9.png))
 
+Создается **Dashboard**, который затем доступен в списке.
 ![kibana-dashboard-table]({{ site.url }}/assets/2018-07-02-kibana-dashbord-table/dash_10.png))
+
+![kibana-dashboard-table]({{ site.url }}/assets/2018-07-02-kibana-dashbord-table/dash_11.png))
