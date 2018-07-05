@@ -6,7 +6,7 @@ tags: docker linux
 ---
 ***Проблема:***
 После обновления системы не работает wi-fi, единственное доступное соединение Bridge docker0.
-![ifconfig]({{ site.url }}/assets/**2018-07-05-conflict-connections-bridge-docker0**/1.png)
+![ifconfig]({{ site.url }}/assets/2018-07-05-conflict-connections-bridge-docker0/1.png)
 
 ***Решение:***
 - Делаем копию файла /etc/default/grub:
