@@ -2,7 +2,7 @@
 layout: post
 title: "Настройка SSL в Windows"
 permalink: set-ssl-in-windows
-tags: ibm-mq ssl windows
+tags: ibm-mq ssl windows java jms
 ---
 - Добавить в переменные среды:
 
