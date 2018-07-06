@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Русские буквы' logstash-logback-encoder"
+title: "Logback: 'Русские буквы' logstash-logback-encoder"
 permalink: russian-letters-logstash-logback-encoder
 tags: java logback spring spring-boot spring-cloud
 ---
