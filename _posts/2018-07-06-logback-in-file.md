@@ -63,6 +63,6 @@ application.yml:
 
 По предварительным настроенным параметрам хранение логов выглядит так:
 
-![logs]({{ site.url }}assets/2018-07-06-logback-in-file/logs.jpg)
+![logs]({{ site.url }}/assets/2018-07-06-logback-in-file/logs.jpg)
 
 [Пример проекта.](https://github.com/OlgaFedorova/spring-boot-logback)
