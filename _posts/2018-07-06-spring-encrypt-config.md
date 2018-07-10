@@ -61,6 +61,6 @@ tags: java spring spring-cloud spring-boot
 ## Для локальной отладки сервисов в Intelij IDEA
 В VM options добавляем:
 
--DENCRYPT_KEY_STORE_LOCATION=**file:/u01/docker/encrypt-properties/dev-properties-server.jks** -DENCRYPT_KEY_STORE_PASSWORD=keypass -DENCRYPT_KEY_STORE_ALIAS=devkey -DENCRYPT_KEY_STORE_SECRET=storepass
+-DENCRYPT_KEY_STORE_LOCATION=**file:/C:/encrypt-properties/dev-properties-server.jks** -DENCRYPT_KEY_STORE_PASSWORD=keypass -DENCRYPT_KEY_STORE_ALIAS=devkey -DENCRYPT_KEY_STORE_SECRET=storepass
 
 То, что выделено жирным замените на свой путь к файлу **jks.**
