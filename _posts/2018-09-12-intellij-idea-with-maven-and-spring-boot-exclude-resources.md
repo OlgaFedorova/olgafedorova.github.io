@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intellij idea: запуск maven-проекта на основе Spring boot с исключением resources"
+title: "Intellij idea: запуск maven-проекта на основе Spring-boot с исключением resources"
 permalink: intellij-idea-with-maven-and-spring-boot-exclude-resources
 tags: java spring spring-boot maven intellij-idea
 ---
