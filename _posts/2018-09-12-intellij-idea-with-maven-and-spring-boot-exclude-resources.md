@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Spring boot admin: изменение уровня логирования"
+title: "Intellij idea: запуск maven-проекта на основе Spring boot с исключением resources"
 permalink: intellij-idea-with-maven-and-spring-boot-exclude-resources
 tags: java spring spring-boot maven intellij-idea
 ---
-**Intellij idea: запуск maven-проекта на основе Spring boot с исключением resources**
 **_Проблема:_** есть **maven-проект**, в **pom-файле** которого указано:
 
     <build>
